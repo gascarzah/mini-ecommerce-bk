@@ -34,4 +34,4 @@ build/
 
 !**/src/main/application.properties
 
-!**/src/main/application-prod.properties
+application-prod.properties
